@@ -1,4 +1,4 @@
-# This is a new project for the Applient Data Science Capstone Project.
+# This is a new project for the Applied Data Science Capstone Project.
 
 import pandas as import pd
 import numpy as np
